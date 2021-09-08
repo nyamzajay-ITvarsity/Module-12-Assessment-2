@@ -1,0 +1,65 @@
+
+.section-divider{ 
+    margin: 3rem 0;
+}
+
+@media (min-width: 1200px) {
+  .feature-heading {
+    margin-top: 10rem;
+  }
+}
+
+@media (max-width: 540px) {
+    .carouselImg {
+        display: none;
+    }
+    
+    .team {
+        margin-top: 2rem;
+    }
+}
+
+button{
+  color: aliceblue;
+  background-color: darkgoldenrod;
+  margin-left: 3px;
+}
+body{
+  background: rgb(47, 134, 216);
+
+}
+
+table{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 3px;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
